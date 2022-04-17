@@ -641,36 +641,16 @@ Ensure the default browser behavior of the `hidden` attribute.
   max-width: 36rem;
 }
 
-.max-w-\[120\] {
-  max-width: 120;
-}
-
 .max-w-\[100\] {
   max-width: 100;
-}
-
-.max-w-\[50\] {
-  max-width: 50;
-}
-
-.max-w-0 {
-  max-width: 0rem;
-}
-
-.max-w-sm {
-  max-width: 24rem;
 }
 
 .max-w-xs {
   max-width: 20rem;
 }
 
-.max-w-\[10\] {
-  max-width: 10;
-}
-
-.max-w-\[10px\] {
-  max-width: 10px;
+.max-w-\[120\] {
+  max-width: 120;
 }
 
 .origin-top-left {
@@ -758,14 +738,14 @@ Ensure the default browser behavior of the `hidden` attribute.
   background-color: rgb(241 245 249 / var(--tw-bg-opacity));
 }
 
-.bg-slate-700 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(51 65 85 / var(--tw-bg-opacity));
-}
-
 .bg-slate-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(30 41 59 / var(--tw-bg-opacity));
+}
+
+.bg-slate-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(71 85 105 / var(--tw-bg-opacity));
 }
 
 .fill-current {
